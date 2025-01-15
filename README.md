@@ -1,2 +1,4 @@
 # cs303_ebg
-CS303-Electronic_Battleship_Game
+##CS303 Electronic Battleship Game
+
+Fall 2024-2025 CS303 Term Project
